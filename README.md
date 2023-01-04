@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @estebanjrdev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hey 👋🏽, I'm [Esteban!](https://github.com/estebanjrdev) 
+
+Hi, I'm Esteban Ramos, a software developer 🚀 from Cuba, currently, I am a graduate of computer engineering 🙍🏽‍♂️. I'm a creative problem solving enthusiast, with a growing love for mobile app development.
+- 👀 I’m interested in developing mobile applications
+- 🌱 I’m currently learning kotlin
+- 💞️ Collaborator in [Apklis](https://apklis.cu/developer/estebanmc) 
 
 ### Tech & Tools Preference
 
@@ -17,7 +18,7 @@
 <img src="http://img.shields.io/badge/-Android%20Studio-4DB33D?style=flat&logo=android%20studio&logoColor=white">
 <img src="http://img.shields.io/badge/-Netbeans-4DB33D?style=flat&logo=netbeans&logoColor=white">
 
-### Other Languages I know
+### Languages I know
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-PHP-659ad2?style=flat&logo=php%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Kotlin-E34F26?style=flat&logo=kotlin&logoColor=white"> 
 
 <p align="center">
