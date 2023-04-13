@@ -19,7 +19,7 @@ Hi, I'm Esteban Ramos, a software developer 🚀 from Cuba, currently, I am a gr
 <img src="http://img.shields.io/badge/-Netbeans-4DB33D?style=flat&logo=netbeans&logoColor=white">
 
 ### Languages I know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-PHP-659ad2?style=flat&logo=php%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Kotlin-E34F26?style=flat&logo=kotlin&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Kotlin-E34F26?style=flat&logo=kotlin&logoColor=white"> <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-PHP-659ad2?style=flat&logo=php%2B%2B&logoColor=ffffff"> 
 
 <p align="center">
   <i>Let's connect and chat!</i>
