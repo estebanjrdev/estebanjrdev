@@ -27,9 +27,9 @@ Hi, I'm Esteban Ramos, a software developer 🚀, currently, I am a graduate of 
   <p align="center">
     <a href="https://twitter.com/susoluciones" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a>     
     <a href="https://www.linkedin.com/in/estebanjrdev" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
-  <a href="https://www.facebook.com/estebanjr.dev" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="30" width="30"></a>
+  <a href="https://www.facebook.com/susoluciones" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="30" width="30"></a>
   <a href="https://www.instagram.com/estebanjr.dev" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>
-    <a href="mailto:estebanjr.dev@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
+    <a href="mailto:contacto@estebanjrdev.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
     <a href="http://susoluciones.125mb.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
 
