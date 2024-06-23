@@ -2,8 +2,8 @@
 
 Hi, I'm Esteban Ramos, a software developer 🚀, currently, I am a graduate of computer engineering 🙍🏽‍♂️. I'm a creative problem solving enthusiast, with a growing love for mobile app development.
 - 👀 I’m interested in developing mobile applications
-- 🌱 I’m currently learning kotlin
-- 💞️ Collaborator in [Apklis](https://apklis.cu/developer/estebanmc) 
+- 🌱 I’m currently working with Kotlin
+- 💞️ Collaborator in  [Play Store](https://play.google.com/store/apps/developer?id=estebanjr.dev) [Apklis](https://apklis.cu/developer/estebanmc) 
 
 ### Tech & Tools Preference
 
