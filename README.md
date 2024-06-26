@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm [Esteban!](https://github.com/estebanjrdev) 
 
-Hi, I'm Esteban Ramos, a software developer 🚀. I am a graduate of computer engineering 🙍🏽‍♂️. I'm a creative problem solving enthusiast, with a growing love for mobile app development.
+Hi, I'm Esteban Ramos, a software developer 🚀. I am a graduated of computer engineering 🙍🏽‍♂️. I'm a creative problem solving enthusiast, with a growing love for mobile app development.
 - 👀 I’m interested in developing mobile applications
 - 🌱 I’m currently working with Kotlin
 - 💞️ Collaborator in  [Play Store](https://play.google.com/store/apps/developer?id=estebanjr.dev) - [Apklis](https://apklis.cu/developer/estebanmc) 
